@@ -6,7 +6,8 @@ Remove leases/reservations from PHPIPAM when not found anymore on the Windows DH
 # Tested with the following versions:
 
  - PHPIPAM 1.4.7 
- - PSPHPIPAM 1.3.8 
+ - PSPHPIPAM 1.3.8
+   - used with [static authentication](https://phpipam.net/#authentication2/)
  - Windows Server 2022 core with DHCP role installed 
  - Powershell 5.1 and Powershell core, see notes in the script
    itself about certain cmdlets.
