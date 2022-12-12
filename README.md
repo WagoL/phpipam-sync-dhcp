@@ -1,6 +1,7 @@
 # phpipam-sync-dhcp
 Sync Windows DHCP server leases/reservations into PHPIPAM.
-Remove leases/reservation from PHPIPAM when not found anymore on the Windows DHCP server.
+
+Remove leases/reservations from PHPIPAM when not found anymore on the Windows DHCP server.
 
 # Tested with the following versions:
 
