@@ -1,4 +1,5 @@
 # phpipam-sync-dhcp
+Uses powershell.
 Sync Windows DHCP server leases/reservations into PHPIPAM.
 
 Remove leases/reservations from PHPIPAM when not found anymore on the Windows DHCP server.
