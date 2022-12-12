@@ -7,7 +7,7 @@ Remove leases/reservation from PHPIPAM when not found anymore on the Windows DHC
  - PHPIPAM 1.4.7 
  - PSPHPIPAM 1.3.8 
  - Windows Server 2022 core with DHCP role installed 
- - Powershell 5.1 and Powershell core see notes in the file
+ - Powershell 5.1 and Powershell core, see notes in the script
    itself about certain cmdlets.
 
 Make sure all the DHCP scopes **already exists** in PHPIPAM.
